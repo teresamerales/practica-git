@@ -1,1 +1,4 @@
 # Práctica de Git
+
+## Instrucciones
+
